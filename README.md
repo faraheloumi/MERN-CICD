@@ -46,7 +46,7 @@ The application placeholder was bootstrapped with [Create Next App](https://gith
 
 Our solution combines different features from known collaboration platforms, notably **Microsoft Teams**, **Slack** & **Discord** in a web-based platform that is tailored to the specific need of our community at SUP'COM.
 
-![Brief look at the application](./img/workspace-if.png)
+![Brief look at the application](./img/landing-if.png)
 
 ### Application Architecture
 
